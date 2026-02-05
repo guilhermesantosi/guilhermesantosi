@@ -1,32 +1,63 @@
-# 👋 Hi, I'm João Guilherme
+<h1 align="center">Hey 👋i'm João Guilherme</h1>
 
-I'm a Mobile Developer in training, with a strong foundation in Front-end development.
+###
 
-💻 Currently working on personal projects and studying web and mobile development.
+<p align="left">I'm a Mobile Developer in training, with a strong foundation in Front-end development.</p>
 
----
+###
 
-## 🚀 Skills
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+<p align="left">💻 Currently working on personal projects and studying web and mobile development.</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=80808080"  />
 </div>
 
----
+###
 
-## 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermesantosi&show_icons=true&theme=dracula" height="150"/>
+<h3 align="left">🚀 Skills</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
 </div>
 
----
+###
 
-## 🔗 Links
-- 🌐 Portfolio:;
-- 📧 Email:;
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=80808080"  />
+</div>
+
+###
+
+<h3 align="left">📱Networks</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=80808080"  />
+</div>
+
+###
 
 <!--
 **guilhermesantosi/guilhermesantosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
