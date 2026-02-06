@@ -13,6 +13,7 @@
 
 ###
 
+
 <h3 align="left">🚀 Skills and tools</h3>
 
 <div align="center">
@@ -31,13 +32,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+##
+
+📌 **Current focus**<br>
+- JavaScript & TypeScript fundamentals<br>
+- mobile development<br>
+- Preparing for **mobile frameworks and native development**<br>
+
 ###
-
-
-<hr>
-
-###
-
+<hr> 
 <h3 align="left">📱Networks</h3>
 
 ###
@@ -46,6 +49,11 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="35" alt="discord logo"  />
 </div>
+
+## 
+
+🌐 Portfolio<br>
+🔗<a href="https://guilhermesantosi.github.io/profile/)" target="_blank"><strong>Gilherme santosi</strong></a>
 
 ###
 <div align="center">
