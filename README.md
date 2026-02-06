@@ -8,17 +8,12 @@
 
 <p align="left">💻 Currently working on personal projects and studying web and mobile development.</p>
 
-###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=80808080"  />
-</div>
+<hr>
 
 ###
 
-<h3 align="left">🚀 Skills</h3>
-
-###
+<h3 align="left">🚀 Skills and tools</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -31,14 +26,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=80808080"  />
-</div>
+
+<hr>
 
 ###
 
@@ -52,7 +48,9 @@
 </div>
 
 ###
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/guilhermesantosi/guilhermesantosi/output/snake.svg" alt="Snake animation"/>
+</div>
 
 ###
 
